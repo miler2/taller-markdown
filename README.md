@@ -21,3 +21,16 @@ Esto es una imágen remota:
 Esto es una imágen dentro de nuestro ordenador:
 
 ![](iescelia_1950.jpg)
+
+## Ejemplo con listas desordenadas:
+
+- Elemento 1
+    - Elemento 1.1
+- Elemento 2
+- Elemento 3
+- Elemento 4
+
+Si queremos hacer un salto de línea forzado tenemos que poner  
+dos espacios en el final de la línea.
+
+<!--Esto es un comentario-->
